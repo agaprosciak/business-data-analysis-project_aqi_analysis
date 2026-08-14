@@ -1,6 +1,6 @@
 # Analiza jakości powietrza w czasie rzeczywistym (API GIOŚ + AI)
 
-Projekt realizowany w ramach przedmiotu **Analiza danych biznesowych** na Politechnice Rzeszowskiej (Wydział Elektrotechniki i Informatyki).
+Projekt zrealizowany w ramach przedmiotu **Analiza danych biznesowych** na kierunku **Informatyka** (specjalność: *Informatyka w przedsiębiorstwie*, studia inżynierskie) na **Politechnice Rzeszowskiej**.
 
 Celem projektu jest analiza jakości powietrza w czasie rzeczywistym na podstawie danych ze stacji pomiarowych w Rzeszowie (API GIOŚ), wyliczanie europejskiego wskaźnika **CAQI** oraz prognozowanie jego wartości za pomocą algorytmów uczenia maszynowego.
 
